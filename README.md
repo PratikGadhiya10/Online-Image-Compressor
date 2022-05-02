@@ -1,5 +1,7 @@
 # React Image Compressor
 
+https://superb-kheer-4a1128.netlify.app
+
 ## Overview
 
 A simple image compressor built with [react](https://reactjs.org/) and [browser-image-compression](https://www.npmjs.com/package/browser-image-compression).
